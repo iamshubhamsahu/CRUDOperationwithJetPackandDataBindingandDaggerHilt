@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332916322216",
+    "project_id": "crudoperationjetpack",
+    "storage_bucket": "crudoperationjetpack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332916322216:android:6e9de44596f9fba10c379d",
+        "android_client_info": {
+          "package_name": "com.example.crudoperationwithjetpackanddatabindinganddaggerhilt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332916322216-0pnqgq03416elcmdvsjtlo450nmrktpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz6rk2MJ2wBnZc-K-bNCwNBatMqzFg48E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332916322216-0pnqgq03416elcmdvsjtlo450nmrktpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
